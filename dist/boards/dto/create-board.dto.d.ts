@@ -1,4 +1,4 @@
-export class CreateBoardDto {
+export declare class CreateBoardDto {
     title: string;
     description: string;
 }
